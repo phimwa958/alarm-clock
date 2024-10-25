@@ -1,2 +1,2 @@
 # alarm clock
- alarm
+Simple alarm clock
